@@ -1,0 +1,1 @@
+The future scope of this project is large. It can be upgraded into a smart-bin system using IoT sensors, real-time weight detection, mobile rewards, cloud dashboards, and robotic segregation. It can also be used in campuses, hospitals, industries, and smart cities to improve recycling efficiency and environmental sustainability.
