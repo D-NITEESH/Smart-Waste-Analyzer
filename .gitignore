@@ -1,0 +1,69 @@
+# Model files
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.joblib
+
+# Large data files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+archive.zip
+
+# Dataset directories
+Dataset/
+data/
+*.csv
+*.json
+
+# Output and cache directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Executables
+*.exe
+*.bat
+*.sh
+
+# Temporary files
+*.tmp
+*.log
+.eggs/
+dist/
+build/
+
+# OS specific
+Thumbs.db
+.DS_Store
+
+# Project specific
+output images/
+*.ppt
+*.pptx
+*.docx
+clean_emojis.py
